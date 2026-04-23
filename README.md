@@ -42,7 +42,7 @@ Advertencia: Necesitas tener Pterodactyl ya configurado para que esto funcione.
 - `nvm install 16`
 - Verifica la versión de Node con `node -v` y cambia entre versiones con `nvm use <version>`.
 
-<strong>1.2</strong> Descarga los archivos de Heliactyl en /var/www/flieactyl:
+<strong>1.2</strong> Descarga los archivos de Flieactyl en /var/www/flieactyl:
 - `git clone https://github.com/Flieactyl/panel.git /var/www/flieactyl`
 
 <strong>1.3</strong> Instalando los módulos de Node requeridos (y las dependencias de compilación para evitar errores):
